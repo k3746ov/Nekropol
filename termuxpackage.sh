@@ -52,6 +52,7 @@ if [[ $vote == 1 ]];then
 	apt install weechat -y
 	apt install unzip -y
 	apt install termux-tools -y
+        apt install sysvbanner
 
 	#pip#
 
